@@ -1,0 +1,27 @@
+{
+  "name": "op-framwork-interaction",
+  "version": "1.0.0",
+  "description": "This repository is a personal project for interacting with the public routes found here; https://docs.opfw.net/",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodyFromDiscord/op-framwork-interaction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodyFromDiscord/op-framwork-interaction/issues"
+  },
+  "homepage": "https://github.com/GodyFromDiscord/op-framwork-interaction#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.0",
+    "winston": "^3.6.0"
+  }
+}
