@@ -103,4 +103,6 @@ dist
 .log
 .logs/
 
-src/.env
+./env
+.env
+./src/.env
